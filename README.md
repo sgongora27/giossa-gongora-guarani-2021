@@ -1,6 +1,6 @@
 # Expansión de Corpus para Traducción automática Guaraní-Español
 
-Este repositorio contiene el trabajo desarrollado para el Proyecto de Grado "Expansión de Corpus para Traducción automática Guaraní-Español".
+Este repositorio contiene el trabajo desarrollado para el Proyecto de Grado "Expansión de Corpus para Traducción automática Guaraní-Español". Varios de estos recursos fueron presentados en el artículo [``Experiments on a Guarani Corpus of News and Social Media``](https://aclanthology.org/2021.americasnlp-1.16/).
 
 Contenidos:
 - Dentro de ``Tests`` se encuentran tests intrínsecos para el Guaraní
