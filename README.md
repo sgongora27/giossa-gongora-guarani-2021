@@ -7,8 +7,8 @@ Contenidos:
     - ``capital-common-countries_gn`` y ``family_gn`` son tests de **analogías**.
     - ``MC30_gn`` es un test de **similaridad**.
 - Dentro de ``Tweets`` se pueden encontrar los conjuntos de Tweets usados durante el proyecto
-- Dentro de ``WordEmbeddings`` se encuentra uno de los modelos utilizados en el proyecto, entrenado con Word2Vec en un espacio de dimensión 150.
-- ``gn_frequent_words.csv`` es una lista de palabras frecuentes de Guaraní curada manualmente.
+- Dentro de ``WordEmbeddings`` se encuentran algunos modelos entrenados durante el proyecto con Word2Vec, utilizando el algoritmo c-bow.
+- ``gn_frequent_words.csv`` es una lista de palabras frecuentes de Guaraní curada manualmente. La revisión se hizo hasta aquellas de frecuencia 10.
 
 Autores: 
 - [Nicolás Giossa](https://github.com/giossa94)
