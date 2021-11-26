@@ -1,6 +1,6 @@
 # Construcción de Recursos para Traducción automática Guaraní-Español
 
-Este repositorio contiene el trabajo desarrollado para el Proyecto de Grado "Expansión de Corpus para Traducción automática Guaraní-Español". Varios de estos recursos fueron presentados en el artículo [``Experiments on a Guarani Corpus of News and Social Media``](https://aclanthology.org/2021.americasnlp-1.16/).
+Este repositorio contiene el trabajo desarrollado para el Proyecto de Grado "Construcción de Recursos para Traducción automática Guaraní-Español". Varios de estos recursos fueron presentados en el artículo [``Experiments on a Guarani Corpus of News and Social Media``](https://aclanthology.org/2021.americasnlp-1.16/).
 
 Contenidos:
 - Dentro de ``Tests`` se encuentran tests intrínsecos para el guaraní
@@ -10,7 +10,7 @@ Contenidos:
 - Dentro de ``Tweets`` se encuentran tres versiones del conjunto de tweets construido durante el proyecto.
 - Dentro de ``WordEmbeddings`` se encuentran algunos modelos entrenados con Word2Vec, utilizando el algoritmo *c-bow*.
 - Dentro de ``MachineTranslation``se encuentran dos modelos entrenados usando OpenNMT. Uno traduce desde el guaraní al español y otro en sentido opuesto.
-- ``gn_frequent_words.csv`` es una lista de palabras frecuentes de guaraní curada manualmente. La revisión se hizo hasta aquellas de frecuencia 10.
+- ``gn_frequent_words.csv`` es una lista de palabras frecuentes de guaraní curada manualmente. La revisión se hizo solamente para aquellas de frecuencia 10 o superior.
 
 Autores: 
 - [Nicolás Giossa](https://github.com/giossa94)
