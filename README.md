@@ -1,6 +1,6 @@
 # Construcción de Recursos para Traducción automática Guaraní-Español
 
-Este repositorio contiene el trabajo desarrollado para el Proyecto de Grado [``Construcción de Recursos para Traducción automática Guaraní-Español``](https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/30019/1/GG21.pdf). Varios de estos recursos fueron presentados en el artículo [``Experiments on a Guarani Corpus of News and Social Media``](https://aclanthology.org/2021.americasnlp-1.16/).
+Este repositorio contiene el trabajo desarrollado para el Proyecto de Grado [``Construcción de Recursos para Traducción automática Guaraní-Español``](https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/30019). Varios de estos recursos fueron presentados en el artículo [``Experiments on a Guarani Corpus of News and Social Media``](https://aclanthology.org/2021.americasnlp-1.16/).
 
 Contenidos:
 - Dentro de ``Tests`` se encuentran tests intrínsecos para el guaraní
